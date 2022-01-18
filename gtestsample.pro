@@ -9,4 +9,5 @@ HEADERS += \
 	func.h
 SOURCES += \
 	func.cpp \
+	main.cpp \
 	test.cpp
